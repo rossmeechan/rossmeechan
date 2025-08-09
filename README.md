@@ -19,11 +19,11 @@
 
 ---
 
-### <div align="center">⚡ Tech Arsenal</div>
+### <div align="center">Tech Arsenal</div>
 
 <div align="center">
   
-  #### 🛠️ Languages & Tools
+  #### Languages & Tools
   
   <a href="https://www.typescriptlang.org/">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=3178C6" alt="TypeScript"/>
@@ -38,7 +38,7 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=61DAFB" alt="React"/>
   </a>
   
-  #### 🗄️ Databases & Cloud
+  #### Databases & Cloud
   
   <a href="https://www.mongodb.com/">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB"/>
@@ -53,7 +53,7 @@
     <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white&labelColor=F38020" alt="Cloudflare"/>
   </a>
   
-  #### 🛠️ Tools & Software
+  #### Tools & Software
   
   <a href="https://code.visualstudio.com/">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=007ACC" alt="VS Code"/>
@@ -69,7 +69,7 @@
 
 ---
 
-### <div align="center">📊 GitHub Stats</div>
+### <div align="center">GitHub Stats</div>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rossmeechan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=00000000&title_color=F54927&icon_color=F54927"/>
@@ -82,7 +82,7 @@
 
 ---
 
-### <div align="center">🌟 Featured Projects</div>
+### <div align="center">Featured Projects</div>
 
 <div align="center">
   <table>
@@ -94,7 +94,7 @@
           <b>SpaceLabs</b>
         </a>
         <br/>
-        <sub>My Software and Management Company</sub>
+        <sub>My Software Development and Management Company</sub>
       </td>
     </tr>
   </table>
